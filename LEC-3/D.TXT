@@ -1,0 +1,2 @@
+jisme .json file hai voh package file hoti hai 
+node js ke liye npm package manager hai {no full form of npm bas eh ik package manager haiiii} its use- package create karna, package install karna , package ko publish karna 
